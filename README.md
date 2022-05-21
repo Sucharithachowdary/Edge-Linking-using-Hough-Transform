@@ -57,7 +57,7 @@ cv2.imshow("Gray Image",grayImage)
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-image = cv2.imread("suduko.webp")
+image = cv2.imread("ludo.jpg")
 grayImage = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 plt.imshow(grayImage,'gray')
 cv2.imshow("Original Image",image)
