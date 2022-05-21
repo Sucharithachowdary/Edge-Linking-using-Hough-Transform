@@ -87,13 +87,14 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/s1.png?raw=true)
+![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/l%201.jpg?raw=true)
+![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/l%202.jpg?raw=true)
 
 ### Canny Edge detector output
-![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/s2.png?raw=true)
+![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/l%203.jpg?raw=true)
 
 ### Display the result of Hough transform
-![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/s3.png?raw=true)
+![output](https://github.com/Sucharithachowdary/Edge-Linking-using-Hough-Transform/blob/main/l%204.jpg?raw=true)
 
 
 ## Result:
